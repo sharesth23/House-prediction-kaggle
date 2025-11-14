@@ -43,10 +43,3 @@ It is based on the **Kaggle "House Prices — Advanced Regression Techniques"** 
 
 ---
 
-## 🏁 Expected Outcome
-A robust machine learning regression model capable of predicting house prices with high accuracy.  
-The analysis also provides insights into which features most influence housing prices, valuable for real-world property valuation and investment analysis.
-
----
-
-## 📂 Project Structure
