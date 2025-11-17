@@ -1,11 +1,10 @@
 # 🏠 House Price Prediction — Machine Learning Project
 
-## 📘 Introduction
-Accurately predicting house prices is a classic and practical problem in the field of machine learning.  
-Real estate prices depend on a variety of factors such as location, number of rooms, area, neighborhood quality, and more.  
 
-This project aims to build a **predictive model** that can estimate the selling price of a house based on key features provided in a structured dataset.  
-It is based on the **Kaggle "House Prices — Advanced Regression Techniques"** competition.
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
+![CatBoost](https://img.shields.io/badge/Model-CatBoost-orange)
+![Kaggle](https://img.shields.io/badge/Kaggle-House%20Prices%20Competition-green)
+![License](https://img.shields.io/badge/License-MIT-lightgrey)
 
 ---
 
